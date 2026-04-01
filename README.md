@@ -1,5 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19371199.svg)](https://doi.org/10.5281/zenodo.19371199)
-# GWB43 groundwater drought DIPI workflow
+[![DOI](https://zenodo.org/badge/1198549464.svg)](https://doi.org/10.5281/zenodo.19371351)
 
 This repository contains the processed datasets, reproducible Python notebooks, and figure source data used for the manuscript:
 
