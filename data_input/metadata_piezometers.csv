@@ -1,0 +1,4 @@
+piezometer_id,cluster,x_coord,y_coord,screen_depth_m
+PZ01,1,412345,523456,18.5
+PZ02,1,412890,523900,21.0
+PZ03,2,418100,526200,8.0
