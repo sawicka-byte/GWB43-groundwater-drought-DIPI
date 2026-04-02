@@ -26,6 +26,20 @@ Recommended notebook execution order:
 3. `03_DIPI_construction.ipynb`
 4. `04_figures_main_text.ipynb`
 
+Alternatively, the complete workflow can be reproduced using the master notebook in `notebooks_reproducible/`.
+
+---
+
+## Quick start
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Then run the notebooks in the order listed above, or execute the master notebook in `notebooks_reproducible/`.
+
 ---
 
 ## Software environment
@@ -33,15 +47,15 @@ Recommended notebook execution order:
 The analyses were developed in **Python 3.11** using Jupyter notebooks.
 
 Main packages:
-- pandas
-- numpy
-- scipy
-- matplotlib
-- geopandas
-- rasterio
-- scikit-learn
+- pandas 2.2
+- numpy 1.26
+- scipy 1.13
+- matplotlib 3.8
+- geopandas 0.14
+- rasterio 1.3
+- scikit-learn 1.4
 
-All dependencies are listed in `requirements.txt`.
+All dependencies are fully listed in `requirements.txt`.
 
 ---
 
@@ -58,9 +72,9 @@ All dependencies are listed in `requirements.txt`.
 
 ## Data policy
 
-Some institutional monitoring data from **PIG-PIB / Polish Hydrogeological Survey** may be subject to access restrictions.
+Raw institutional monitoring data from **PIG-PIB / Polish Hydrogeological Survey** are subject to access restrictions and therefore cannot be redistributed.
 
-To ensure reproducibility, this repository provides the processed monthly datasets and derived analytical products used directly in the study.
+To ensure reproducibility, this repository provides the processed monthly datasets and all derived analytical products used directly in the study.
 
 ---
 
