@@ -1,4 +1,17 @@
-piezometer_id,cluster,x_coord,y_coord,screen_depth_m
-PZ01,1,412345,523456,18.5
-PZ02,1,412890,523900,21.0
-PZ03,2,418100,526200,8.0
+cluster_id,aquifer_group,piezometer_id,x_coord_2180,y_coord_2180,top_depth_m,bottom_depth_m,well_depth_m,stratigraphy,lithology
+1,shallow_unconfined,II/1271/1,441727.379465,523964.37798,4.05,12.1,28.0,Q,sand
+1,shallow_unconfined,II/1272/1,406124.320712,559613.68159,3.0,4.6,5.5,Q,sand
+1,shallow_unconfined,II/1273/1,457116.257396,519137.508988,1.86,19.0,19.0,Q,sand
+1,shallow_unconfined,II/1274/1,437254.525319,574337.265338,4.36,23.0,23.0,Q,sand
+1,shallow_unconfined,II/1274/2,437254.525319,574337.265338,4.36,23.0,23.0,Q,sand
+1,shallow_unconfined,II/1276/1,426138.534945,566934.733599,5.3,13.5,19.0,Q,"sand, gravel"
+1,shallow_unconfined,II/1285/1,430634.357466,547647.787304,14.0,29.0,29.0,Q,sand
+1,shallow_unconfined,II/906/1,404107.060393,583888.84398,6.5,16.0,16.0,Q,sand
+1,shallow_unconfined,II/908/1,412611.881532,584622.319745,7.6,16.5,16.5,Q,sand
+1,shallow_unconfined,II/908/2,412611.881532,584622.319745,7.84,16.0,16.0,Q,sand
+2,intermediate_confined,II/1272/2,406406.453948,559611.297028,20.0,22.0,24.0,Q,sand
+2,intermediate_confined,II/1275/1,425263.94912,578231.850695,3.0,6.5,19.0,Q,sand
+2,intermediate_confined,II/521/1,438931.241877,567321.019865,28.0,41.5,41.5,Q,sand
+2,intermediate_confined,II/527/1,415848.578062,571151.14399,14.0,43.0,43.0,Q,sand
+3,deep_confined,II/1065/1,453545.573339,543466.324751,70.0,80.0,82.0,Q,sand
+3,deep_confined,II/797/1,429354.580549,551206.872137,66.0,86.0,90.0,Q,sand
