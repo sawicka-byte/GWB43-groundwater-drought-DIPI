@@ -1,0 +1,8 @@
+file,rows,columns,columns_list
+fig01_gde_polygons.csv,10246,5,"feature_name, feature_code, gde_class, x_coord_2180, y_coord_2180"
+fig01_mining_areas.csv,1581,6,"feature_id, feature_name, area_m2, resource_type, x_coord_2180, y_coord_2180"
+fig01_rivers.csv,10126,3,"river_name, x_coord_2180, y_coord_2180"
+fig01_meteorological_stations.csv,5,3,"station_name, x_coord_2180, y_coord_2180"
+fig01_piezometers.csv,16,5,"cluster_id, aquifer_group, piezometer_id, x_coord_2180, y_coord_2180"
+fig01_gwb43_boundary.csv,13290,3,"gwb_code, x_coord_2180, y_coord_2180"
+fig01_lakes.csv,26919,4,"feature_id, lake_name, x_coord_2180, y_coord_2180"
