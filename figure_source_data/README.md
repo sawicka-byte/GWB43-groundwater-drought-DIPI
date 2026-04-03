@@ -17,3 +17,4 @@ This directory contains source-data packages for all main-text figures and appen
 - **Appendix_B/** – SGI–SPI lagged correlation heatmap source matrix
 
 Each subfolder contains the numerical tables or interpretative notes required to reproduce the corresponding figure panels.
+Conceptual figures (Fig. 2 and Fig. 3) are accompanied by interpretative notes instead of standalone numerical datasets.
