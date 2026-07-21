@@ -4,7 +4,7 @@ This folder contains the piezometer-level inputs and leave-one-out cross-validat
 
 ## Files
 
-- `Exposure_SGI12_piezometers_GIS_join.csv` — piezometer-level SGI-12 drought metrics and normalized Exposure inputs for the 16 monitoring wells. The table contains coordinates, aquifer-group assignment, vulnerability, resilience, maximum drought duration, normalized subcomponents, and the resulting Exposure score.
+- `Exposure_SGI12_piezometers.csv` — piezometer-level SGI-12 drought metrics and normalized Exposure inputs for the 16 monitoring wells. The table contains coordinates, aquifer-group assignment, vulnerability, resilience, maximum drought duration, normalized subcomponents, and the resulting Exposure score.
 - `TopoToRaster_LOO_results.csv` — detailed leave-one-out cross-validation results for the three interpolated Exposure subcomponents. For each omitted piezometer and variable, the file reports the observed value, predicted value, prediction error, and number of training points.
 - `TopoToRaster_LOO_summary.csv` — summary leave-one-out performance statistics for each interpolated Exposure subcomponent, including mean error (ME), mean absolute error (MAE), root mean square error (RMSE), and the observed–predicted Pearson correlation coefficient.
 
