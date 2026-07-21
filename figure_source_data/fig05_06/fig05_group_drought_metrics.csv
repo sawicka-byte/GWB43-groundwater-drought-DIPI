@@ -1,0 +1,10 @@
+aquifer_group_id,aquifer_system,sgi_scale,window_months,mean_duration_months,propagation_probability_3_to_12,median_recovery_months,recovery_status,vulnerability_VUL,valid_months,group_wells,minimum_support
+1,Shallow unconfined aquifer,SGI-3,3,4,1,12,recovered,8.667707117291954,224,10,5
+1,Shallow unconfined aquifer,SGI-6,6,3.3333333333333335,,10.5,recovered,8.874058987538014,220,10,5
+1,Shallow unconfined aquifer,SGI-12,12,4.25,,10.5,recovered,6.466732012959659,208,10,5
+2,Intermediate confined aquifer,SGI-3,3,5.125,1,4,recovered,15.183124308004308,433,4,2
+2,Intermediate confined aquifer,SGI-6,6,4.222222222222222,,6,recovered,13.3848050487632,412,4,2
+2,Intermediate confined aquifer,SGI-12,12,8.8,,12,recovered,12.834617252774953,373,4,2
+3,Deep confined aquifer,SGI-3,3,11.8,0.8,,not recovered,37.685425324024045,347,2,2
+3,Deep confined aquifer,SGI-6,6,20.666666666666668,,,not recovered,47.01808269986033,335,2,2
+3,Deep confined aquifer,SGI-12,12,29,,,not recovered,80.10060292652238,313,2,2

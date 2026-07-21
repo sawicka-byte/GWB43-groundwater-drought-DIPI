@@ -1,0 +1,17 @@
+piezometer_id,aquifer_group_id,aquifer_group,marker_shape,propagation_probability_SGI3_to_SGI12,SGI12_vulnerability_VUL,recovery_status,median_recovery_months,recovered_events,unrecovered_events
+II/1274/1,1,Shallow unconfined,circle,0.5714285714285714,30.42129268607953,Recovery observed,18.0,2,0
+II/1271/1,1,Shallow unconfined,circle,0.6666666666666666,25.042360389490447,Recovery observed,10.5,2,2
+II/906/1,1,Shallow unconfined,circle,0.7,25.04846911905423,Recovery observed,10.0,3,0
+II/1273/1,1,Shallow unconfined,circle,0.7777777777777778,32.69596123108128,Recovery observed,12.5,4,1
+II/1272/1,1,Shallow unconfined,circle,1.0,19.21242101146112,Recovery observed,8.0,3,1
+II/908/1,1,Shallow unconfined,circle,1.0,20.1189278420214,Recovery observed,9.0,1,1
+II/1285/1,1,Shallow unconfined,circle,1.0,22.38283041154325,No recovery observed,,0,1
+II/908/2,1,Shallow unconfined,circle,1.0,23.723250921965136,Recovery observed,14.0,4,0
+II/1274/2,1,Shallow unconfined,circle,1.0,26.00169730166337,Recovery observed,8.0,1,1
+II/1276/1,1,Shallow unconfined,circle,1.0,33.981735165579686,Recovery observed,15.0,1,2
+II/1275/1,2,Intermediate confined,square,0.6666666666666666,25.41739307112196,Recovery observed,11.5,4,0
+II/521/1,2,Intermediate confined,square,0.75,29.796117565251897,Recovery observed,8.5,6,1
+II/527/1,2,Intermediate confined,square,0.75,40.50856325371097,Recovery observed,17.0,1,2
+II/1272/2,2,Intermediate confined,square,1.0,38.1121267553433,Recovery observed,33.5,4,0
+II/1065/1,3,Deep confined,triangle,0.7142857142857143,49.46457373126692,No recovery observed,,0,3
+II/797/1,3,Deep confined,triangle,1.0,81.97610864626442,No recovery observed,,0,3
